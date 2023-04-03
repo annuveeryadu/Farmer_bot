@@ -319,7 +319,7 @@ def NW2():
     lab5.config(width=25, height=1, font=("Calibri", 11))
     lab6 = Label(win2, text="Enter product name", bg="Lightblue", fg="black")
     lab6.config(width=25, height=1, font=("Calibri", 11))
-    lab7 = Label(win2, text="Enter product amount", bg="Lightblue", fg="black")
+    lab7 = Label(win2, text="Enter Quantity of product", bg="Lightblue", fg="black")
     lab7.config(width=25, height=1, font=("Calibri", 11))
     labm = Label(win2, text="Order Details", font=("Times new roman", 20), bg="Navy", fg="white")
     labm.config(width=100, justify="center")
